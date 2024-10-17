@@ -1,0 +1,4696 @@
+{
+    "data": [
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/--7VUM9MKg4_136.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/--GF746y6UM_496.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/--PwWfN1Ae4_97.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/--RVKBMp_2M_79.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/--dVV4_CSvw_33.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-2FbowxhzfQ_67.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-344DMDbxtw_19.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-3dlwCvBgTI_155.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-3nc7ljnlFQ_1.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-4Q0ouLt0GA_52.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-4c_tY98bNg_53.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-50rKj9WZgA_28.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-6wNVod8iag_377.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-94nreFhQRg_20.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-9gU1fIB6TM_23.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-BtzVCzSnLk_73.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-Hvl2ZcvTUw_0.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-IlFdaVdEyU_1.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-KBf8XXQVXM_26.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-MPqy00mB-Y_16.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-Ovwq0kVUx4_2.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-PbHg505GzE_0.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-W07v4Ci-zY_0.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-WH-lxmGJVY_5.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-Wx7UjNi3uU_10.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-_pn5NxJmok_4.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-d7gxstQux4_67.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-j3eNzQR-EI_64.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-jOClYqKtE8_3.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-wk1qN0k9VQ_21.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-zpKHNrNsn4_226.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0-b4M8jssX8_86.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/075wmEyfcUw_25.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0AFL0KtXKRg_97.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0ELymxVtE0g_56.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0EQTWTLZfGM_37.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0GWr1EV6ZuY_106.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0L44b3HExVA_31.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0MPv9HqB_Ww_8.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0SDy6ZObNdE_415.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0WOMnirXVsM_3.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0YqLJjXmU0I_560.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0aqVBIiRZAE_135.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0bP8gJOcxTY_99.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0bSgWa4ldr0_401.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0f0sVob1QHU_42.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0gR5FP7HpZ4_24.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0qb7N_CyrcM_884.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0skuNPhX44s_35.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0yyodmE6cGg_463.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/1AIVH5cEWrI_0.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/1Hi5GMotrjs_2.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/1ITFUe7Bq1k_69.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/1LsJKMM7gc8_2.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/1MhMBG54x2U_8.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/1Pw02jqAhBM_301.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/1W7HNDBA4pA_2.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/1W_kOXb5M6U_97.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/1ZV3JtdYAmg_154.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/1gQkxY9-sL4_6.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/1guifJiSYqM_160.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/1j0Shl6ShJA_19.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/1nho7QEZT84_189.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/1pNdXcMQX_8_173.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/1sQuq2Fx6Vs_15.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/1xvo3PQSUmY_202.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/24KdZTSKTwc_2.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/268PcyxU4kE_346.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/28vu-e7TQhk_27.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2932HmrpFmM_0.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/29DyijHoo_g_31.wav",
+            "labels": "tickling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2CAikoWEcn8_149.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2CtUf-Oj2a4_63.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2GhcqTJoEaI_17.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2K7naVgXayQ_125.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2LBsevI3Cd8_148.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2Vzh7XO912Q_0.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2WdQuLmw-f4_122.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2e_ZB1_OstE_0.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2gBacDt9k0Y_26.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2gi1aSciYmE_12.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2iNQICDlOSk_481.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2kpaZvmqiYA_5.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2nw_8_VOVAU_88.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2p1-q5R2D9w_4.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2pg_4Mc3NN8_178.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2rPDLelJ-YA_0.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/32NeaEmNlQo_10.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/34vH1a_ck8o_286.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/39pt_hF13_k_3.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/3AKiMufDtCI_60.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/3SCjuPlRP2M_227.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/3SsxbLbVgm0_163.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/3YLIjMs5tpA_2.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/3arRn6NZnkc_35.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/3f9VlqbXH2I_114.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/3g6vYQ3Qp8U_3.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/3jP9HNJddR8_3.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/3mR3RbOPycw_0.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/3rwcm61YGLQ_122.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/41L6aYvDYHk_23.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/45n6RPDgiys_85.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/4JxH3S5JwMs_3.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/4P-itbH9hRo_57.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/4ZuNcpUQmM4_2.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/4eeA-gswYjc_19.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/4mQP7S4EGwg_20.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/4sY5U4LqmnY_4.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/4tn1d-j7Kak_34.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/4tnMjsQxGoI_52.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/4x0kKZY_IhE_57.wav",
+            "labels": "tickling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5-3GN1nFB60_3.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/51faGoLPJgM_0.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/54bCA6PA8Is_2.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/56qpfvdmg_k_114.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5BRQYmi-n3Q_221.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5EjxKtj6trY_6.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5GXEjJjgGcc_58.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5GcK43A5KyM_2.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5KBuLjINIQg_56.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5LnRFlqlV6w_1.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5NLQMrXzCQA_3.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5P0Szq9VDYg_21.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5RFlvWslIm8_46.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5Vu8HJ__eMg_277.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5YOdoN7vlsI_71.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5bRseNSffik_455.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5bSfdPt6XYA_6.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5iCQL3IN47M_207.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5j1oz2hmq8Q_2.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5t816FUvfDE_186.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5w3R0qPj0u0_9.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6-t-BUbr8V4_5.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/63PhSv_tkJw_62.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/65rmeShvIxs_38.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6GMpd_uFC24_8.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6Mc8e7lgJtk_11.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6OV0aQq22lE_353.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6Oh-dUR0Yv4_87.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6SnlJtTpkLA_347.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6T4Sf_eONZs_3.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6V6DgC9u7Y0_0.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6_ecPixG544_569.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6aFe_kigVU4_29.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6dUY8QB2j8g_31.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6eD0pATYoIY_8.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6kLO27G-7DA_36.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6nrJI3NTb8A_15.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6oOo4AG8l_8_25.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6ogTWf6G47Q_9.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6rBlsvIxjwU_28.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6uE5Lkxzq0E_21.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6zTdbPmQh6Q_24.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/77bGWKIfsvk_61.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/7AcGSRXxjw8_10.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/7EGfyEemAms_1.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/7KEUN4ysTe0_14.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/7KfrFQ52WtI_31.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/7KtJqEQ_PVk_196.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/7MT7_Kpj3Y8_65.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/7Nqupt1WIn4_31.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/7QB4acOhIdQ_34.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/7YihjsB2CEk_0.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/7_b3DRA3TYQ_13.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/7_is3WYDFgI_0.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/7cn3Bz-Zq8w_138.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/7fZlQ6E1GOM_56.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/7g4aL1EX8EI_1210.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/7iAft7BwCuU_115.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/7oUvm4e9oQ8_279.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/8DLVa6WYkFI_139.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/8LIgsurVS6A_13.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/8PayioXpbbA_79.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/8TiYnWFX-ow_42.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/8ZPxIgdJEyw_16.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/8eoPjorCkVk_221.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/8oy1RNINVfQ_27.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/8pBjZcOc8MY_96.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/8roaXc7vbts_13.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/8vxFri3kYz4_0.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/8xbFsL0cXDE_392.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/8zgQWlLFWXs_7.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9-dbTVhvHMs_0.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/90HStc60QcM_59.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/99hi_7pt3d8_158.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9FisBO13eQ4_30.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9G96P05y77A_11.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9PEcW0QCp0c_2.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9UJsk6sts_o_52.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9XrEo3xy5pw_178.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9YwzABZx1GQ_52.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9cFlNjI7nNg_14.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9d4eQyS8Myo_142.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9eQ6FwXqLZA_34.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9i-EhFgUElQ_14.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9irjS1I0ajU_184.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9mAalxubLl4_72.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9mUwLfcztyE_18.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9o68AyEWzcM_81.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9qincgvSOU0_0.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9vxWK9ozKz0_16.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9yE2fYNgr9s_105.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/9zhbUqXWyog_90.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ABnQrFG971o_7.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/AEOaqO60H0k_108.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/AIEtuW7zk34_139.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/AO3YM-YmBV0_14.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ASg5qTkkpBo_1.wav",
+            "labels": "tickling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/AV9UYjCD4wY_11.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/AWuqlrq58PY_16.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/AYBWxLkoYrQ_145.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/A_R1Cb2Xrhk_0.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/AeyiXpLGUs4_36.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/AgL6vtTo71o_34.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/AkpRf7g3HqY_112.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/AuQI8m8zswA_358.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/AxKiC7Soc6s_22.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/AxT4KGgCtN8_2.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/B029kZSTx6Y_3.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/B3sQivF4s4w_448.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/B86jGiboZMM_34.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/BBN3OkI40xk_8.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/BV61-QMh8A0_56.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/BXdLkM8ed2c_86.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/BXqG3TAD5CM_301.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Bb8h5wgHlug_47.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/BcTqDYzKNvE_23.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Bd0dqJ1ac0w_6.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Bnr_xmh3Od4_13.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Bobkw016yr0_41.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/C0pXMlJYP-0_127.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/C4UOVtrzqM4_10.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/C9boKvSr3kU_15.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/C9jFsikga4Y_148.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/CAmUzqXTgMo_153.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/CEEzZz1TJ64_55.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/CF6Q5ojrAJo_0.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/COjYi31B7G0_18.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/CR-3nM2Otqg_89.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/CXPpgR3wSGg_2.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/C_XLgnM4oMs_21.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Caduqe8W8R0_117.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Cklo421HB2A_24.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ClkbGHCRcn8_45.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Cs8Y14ZDigU_85.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Cs8fMWmgK3M_113.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/CyXBjcmEY9w_77.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/D28oqfWKAqM_10.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/D6IYvlf5t0U_44.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/D8NgkKUbuQU_3.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/DBGea9pST1A_16.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/DF9HG1w5nZA_58.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/DM7LtVq6zCA_1.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/DMhLmhPfe3E_124.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/DOAwyFz2Y0I_44.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/DOKPjE3JJlw_20.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/DYyukPFYRUg_6.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/DkFhk2DC7JA_2.wav",
+            "labels": "tickling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/DlOYYqAFOHI_38.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/DmhM47gVw2E_17.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/DpJQShJs2kI_36.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Dt87kKC3HEE_123.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/DtBGz70QrCA_12.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/DwfWMAtwbFc_276.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/E0G6Q4C-CMQ_2.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/E7l9YJAJdU8_161.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/E9k5I-EJd74_29.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/EByp62GPGOE_14.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/EC3Jzrs_mNA_79.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/EHSGJRj7qdw_37.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/EIJGzKnlMRM_14.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/EOQ0ST_d6mQ_74.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/EW0wYwHau9Y_25.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/EWWYBI928ms_1.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/EYKcpyWRtyY_0.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/EZipa18f5gk_41.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/EdzFkO0yaGI_135.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/EpKua4_gsHI_29.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Epp4z1hle48_33.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/EqAYPkVuTdo_39.wav",
+            "labels": "tickling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ErtSFRpSeDA_88.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/EuKlcstm0gA_1.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/EurLx7PG7S4_26.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Ev6wW50FNMA_26.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/EwGsQ0fn-fQ_95.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ExReUsHc6R8_4.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ExaLDk07VLs_200.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/F-cmTIX6Drw_2.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/F4C7r0y49lQ_4.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/F6EBsLoTomM_6.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/FQrCs4eCKiA_64.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/FQrXAPz-daQ_120.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/FTVcolz_kcA_2.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/FWkNC3y4s5I_4.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/FZ7CCmtyduc_450.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/FZrg29zsAe8_23.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/FeRhm6RPdco_125.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Fl7XJN4ZgqE_274.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/FnS-I1SXiVo_0.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Fq-N6hpOTBo_2.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/FtW5yDvO7cc_41.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/FuHOkar7pYA_26.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/G6M0uqfvkLU_49.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/GCh5bbKJgbE_148.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/GEBx0uXsfKE_181.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/GH9XMpFCBNc_27.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/GLPggNHgBZA_7.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/GNpQr4iyJlw_0.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/GRt0r0SGP-g_0.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/GVG5XbChg6U_12.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/GWNSJNADD1o_23.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/G_F-s3g3SmI_0.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/GaeywPbOb_Q_34.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/GemX0d_J_L4_2.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/GgOCTNRyCpg_2.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/GgS5UEgguEg_15.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Gkz0bp6uJLA_152.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/GlIAQH29bSA_167.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/GqIVXd-dtis_65.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/GqRDx6JyqPU_21.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Grnnkc2O8ys_3.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/GsTh6alxJPk_44.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/H0EcgaAV9lU_196.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/H7RA7onD_P8_81.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/H9f_vzBeOk4_15.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/HBegrZBLpog_300.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/HCKpMfnxRGc_4.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/HMGTnQyF2j8_167.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/HTe9MGWQlH4_44.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/HUiafDe-xTo_208.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Hdf2WLugHVA_11.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/HmX7JiWV-sg_25.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/HqrZ-gHz4gA_17.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/HqsAvuo5XhA_59.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Hv1r7rgekCw_6.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/HyiitLtWeks_17.wav",
+            "labels": "tickling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Hz0E5D4P7gI_32.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/I2OvykaHy8Q_6.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/IHrCnjuzzAw_37.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/IMQTZAQmDIA_3.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/IQ9uihSqqCk_12.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/IY-c6mvhdhU_22.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/IdGvoEwIIcQ_968.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/IerM-T5IRdA_32.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/IfuedYovBxs_2.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/IknWrGi3QzI_4.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Il4V_mhFWoQ_44.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ImnoH6JUiwA_29.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/IpG1dsVOSyU_30.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/IukQi46e0_M_1.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/IzYS8Di82vM_181.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/J2Tx-5WOf7g_159.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/J4WpfOS6OiY_166.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/J5kXnpdneig_9.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/JAKYUJwZGf8_8.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/JNLUH3bSEJQ_5.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/JOvl5PB-fNM_32.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/JP30NtKsFSU_72.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/JQz5BkEUqPw_80.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/JS4pPxUwxPk_364.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/JTlatknwOrY_5.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Jjw5-5N1hIM_9.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Jm3c8QSzJyY_120.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Jx_OXZnzDBw_131.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/JyXIXD5BuxQ_203.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/JyZMteaDzf0_17.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/K06EmNd6t_I_6.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/K61C_sU6Hsg_161.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/KBgES2Uh0jY_16.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/KFzsNyLIULo_37.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/KK1DHZMNpng_21.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/KNvoLCXZlO8_22.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/KRmHGDBdV7w_41.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/KUUe6BKE_Aw_50.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/KXYTyVaZVEY_408.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/KZ3Q-O6XKfk_0.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Kn20oWvtifU_4.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Krkt-jlVJOc_13.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/KsFDUHkmWuc_19.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Kuu-2bhOw4A_157.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Kv6Lgh1DRF8_13.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Ky7BNe0ZJSk_56.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/L1JvkLIYZGc_365.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/LDXBtzCeYjQ_21.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/LIb61jJgebw_5.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/LKhtbW5q-_c_182.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/LKtpHHx793A_186.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/LLySg638Ms8_4.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/LYZRKH70Nxs_24.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/L_KiHjIcRPY_0.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/LcFK0JAI4P0_169.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/LdNkHmrtQdo_33.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Lj3wfxExD-s_184.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Ll06xpYoeCo_58.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Ll776ep8IwA_14.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/LmwHuxBcD20_54.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/LqMdp2WEsbY_48.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Ls5n1KFnpeU_395.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/LwDfbxnWLk8_68.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/LxwtZ6YMyNk_103.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Ly3MDfm_BVw_117.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/M1X8UKqQDvA_74.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/M7WwMUygDw8_43.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/M99mgKKmPqs_2.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/MCSdMEXMg9w_25.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/MKv1mkOcom8_0.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/MSM0T9LuUOE_12.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/MTK1vO5gNK8_37.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/MUOLh7R2krw_67.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/MUg_F0sB9T0_208.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/MerE0jU3cCI_120.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/MrSMr3S3lE0_90.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/MvlIfKNI46I_94.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/MyC4XeQrMXA_186.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/N24chJTN4lE_159.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/N3xWCui6fNY_1.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/N4h1wqQvmLE_174.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/N586DnjSCxo_0.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/NAmoDs5en6U_17.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/NEoe5L9iUfs_3.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/NKqTJJ7BrGE_26.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/NN-4H058oSU_24.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/NP7yfmnxohw_10.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Nfud2MLDRD4_172.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Nip_kGtJWfs_48.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/NpEsYEbEpRA_9.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/O07fEiov-vQ_59.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/O0ymrFvrgYY_130.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/O5gTW9q49E0_53.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/O62LVI0XNHo_15.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/O7nB4PQpYTc_84.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/OF5cp2dLzfs_22.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/OQOQH_Qgitg_9.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/OVcBoj2b-2M_50.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/OY7C31CvuSQ_229.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/O_S16CnG344_10.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ObcpdscmqYA_80.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/OfKSSn_FyIo_27.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/OnU1Hr__jlY_2.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/OpCa2I67eh4_108.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Ot3j0CHnWtU_9.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/P0hQUySz4WU_54.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/P24qs_4ZX0c_0.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/P4w8Ef14Mis_17.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/P73byNa05ew_2.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/P9ihgBhrcFc_177.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/P9jaEJ7V0hA_27.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/PChmsFzTlus_0.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/PGPn8WhG3pM_20.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/PHINYJrKnw8_405.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/PJfxjnh_ldo_70.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/PLdphyCuyTw_34.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/PMiIDfpWiGM_44.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/PO7vXwGJ-os_663.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/POapPfA6zds_51.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/POuKTCa6BgA_80.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/PVJ71MCXCFU_28.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/PXOluGNqZcc_120.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/PehoEu4WfEI_49.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/PgPm6QSWK6I_7.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Ph6OuvXOqFI_166.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Podsj3pcB1o_81.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Psktdk-zi2I_60.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Q49O1qh5Rjc_116.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Q5IgRBnU68I_92.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Q5JVAwoqQ8Q_0.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Q6G3SqUU3w0_134.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/QHPi6drsz5s_5.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/QHTe634ad2Y_7.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/QIdpUNNZR-s_6.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/QMaaUCbPR68_42.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/QQG8DajfNGw_29.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/QdO7zDjMsew_209.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/QjgnG9WpMBE_20.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/QlZmM24toa4_29.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/QxtqFjvbeKM_321.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/R4cQqmn4d4c_0.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/R6DlncUpkrU_69.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/RAJOEelCYlI_95.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/RBtuNgpscE4_6.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/RKmcSDdJehg_1.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/RL9vt7ZinXU_116.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/RLUo10Vbo98_37.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/RM138Dob-4s_158.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/RYPA6HPpldw_463.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Rln6knJAHYk_51.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Rmr7HeQfHT8_35.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Rvin2blbFCg_27.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Rxv6sXM4NiM_101.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/S5yuMSsqYFk_32.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/S8_ErlI3phA_28.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/S9X8-ecq7DU_8.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/SJAFaz0nFnE_212.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/SPi67bJshi0_348.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/SRGvcE2jrKM_175.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/SUfUbruAUbE_0.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/SUop-aJn8Do_0.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/SYGDjUNLYB8_170.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/SZRDWgGOpXY_62.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/SbfJ7oTh5qA_76.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/SeCwevKut3k_183.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/SfNDt73AdE0_24.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/SlyvRDO-dNY_58.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/SykxFlJ2Dlw_3.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/T2i8vZqFfLI_1.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/T69-7T9DomU_77.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/T7RQREU1u9g_94.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/T97WL2cKD6M_15.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/TEIYLQpiyEI_22.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/TGDEZRNXHuU_25.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/TL-jX3mjc3k_88.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/TN_QcKErOD8_19.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/TSHY23SOf5U_104.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/TS_DwPfdY8c_38.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/TYsvvOyPWhs_3.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Ta4mtqsCjkU_76.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/TpoL20ZVZE4_204.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Ty3HJ5N-olM_228.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Ty63fNlVsrU_5.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/U3HzxozvdCo_204.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/U6N13ypiGoc_47.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/U6emWTjz4gE_195.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/U7aPYtStQ0Y_107.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/UBvJD2xjtvY_0.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/UDvJMRGynnE_0.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/UKu3-g_xH9s_34.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ULwac3gjHFk_0.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/URpJfPMoX_Y_428.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/U_D-B-xXgys_56.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Ua_8t0VNszU_72.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Uf1PiOF8Poc_6.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/UioIt7amZ7c_52.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Un-RhLmHJao_8.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Unfbjy7udYE_209.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/UpVXo5Q9JKk_79.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/V4OgvLuc97s_1.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/V6li0T_bsw4_8.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/V7vo_5tif-g_92.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/V821ET9kM3I_30.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/VCP0ujSObI0_0.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/VIeRDum9wVo_0.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/VP-_VaZhno0_4.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/VQkePUpX3Mc_48.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/VefhBPzw-SY_58.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Vh_bchJz99Y_22.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Vi4X4YR5f6I_14.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Vj5XAQ5hFzY_61.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/VpUVzgDEj9U_5.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Vrb7jjo202c_86.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/VsTPXvgoTXY_0.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/VvckL4ljuBY_24.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/W1rplwHQoxI_20.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/W9Ydqjoda9c_0.wav",
+            "labels": "tickling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/WCyove7hRPc_24.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/WE03bw7IHt0_58.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/WEED5iQUJ1A_38.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/WEvC_iKNa8o_1.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/WFsMi09soZs_2.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/WNu0Rwwlruc_25.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/WTn8BzmZQa0_343.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/WVvVKBU4SvM_0.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/WW0R7wI2pGc_18.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/WWDphFwocAM_53.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/WXt6Xqc9st0_11.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/W_BXQn8KFc4_2.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Wh4vYozBQ5k_19.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/WiWGuBFHcuE_225.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/WjIEsPkw5RM_34.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/WjQBqPwDAjU_1.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/WtS1KktMHD8_50.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/WvRk6MKG654_57.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/WvrTm5camjE_2.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/WzHZlD-ouhg_314.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/X7k8twydJIU_237.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/XE4x560nyOU_404.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/XHVTyiLpJQY_62.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/XHzUKr_C8zg_6.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/XI3ZtqVpiH8_21.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/XN68IGmQcis_94.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/XPohV0RZOII_183.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/XQnmV1I0-z0_131.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/XR6mXivdAyw_47.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/XUfeSASNbtU_12.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/XWmzMEu6XEc_18.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/XgWAjFN6KJY_13.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Xj2HoKVk3As_9.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/XoKPpeiDgAo_2.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Xsvv0_AqZ1Y_93.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/XuLVYAKjJGc_63.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Xv5LtyjipMw_299.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Xz9FubtN8es_51.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Y1NEWHZywDM_8.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Y3srcQZOhks_25.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Y4ywR3V5XKM_133.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Y7ML5La_oiE_54.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Y8KzfKSlTuo_23.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Y9_AJlP0iUY_373.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/YABnJL_bDzw_86.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/YC4IA4Y4Nao_17.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/YJHKXKdwJHE_130.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/YJblzqtMynQ_0.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/YNBq000h9uk_5.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/YSVQVV85GOs_13.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/YVZIirTvnlY_82.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/YVbwgdIAi68_38.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Yb-O6DHPrPQ_7.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Yf9I2pAbA_4_45.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/YgXLcOtQcSg_28.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Ykiro3IaZsI_25.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/YlGfbvL4vu4_5.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Z02k8AiCRpw_9.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Z3XphEQB8XU_6.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Z5t3mmmhx-E_2.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Z8UUNsCvG68_4.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ZATfwKJ725E_105.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ZBUxFdHqJLA_132.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ZLCntgQ9KHc_2.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ZLkNc-tm83U_1.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ZM3UPqyT210_5.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ZO40MBvGejY_36.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ZQIh3uZTTEo_76.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ZV8r-zAQGeU_1.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ZWf98lgMTHk_61.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ZYbiKAUtQoY_28.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ZZ1m75L6Aaw_35.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Zg4mhpKVM6Y_299.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ZlVNRxRSQx8_8.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Zm3BQu7eJUI_2.wav",
+            "labels": "tickling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ZnIDviwA8CE_117.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ZneBc3wYLBk_139.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Zp0hLxCrjoI_368.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ZsYjasnTIIs_23.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Zu2YyemngS4_33.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ZxR8ZT_dg-Q_85.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ZyvONwcYFtw_0.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Zzrwohjh3bw_0.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_5cvAd0KAk4_159.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_5dyLrtc5fQ_6.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_6Xp_ymM0Lg_103.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_7hRHaRdCi8_6.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_He78Y4jsbA_146.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_PfkNz5Gtos_87.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_VrEbrD1pq0_20.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_aeY4zxxbk4_12.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_eVCAsZxcPw_3.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_k0w_3JFfmE_26.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_kDc7gYphkU_193.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_oQdPnAcCNs_170.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_sUVJ3fTWNA_133.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_tCKnYXne_o_30.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_wMe9P5gsHE_219.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_wziTEcV6VU_251.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_xEFSxoiudQ_46.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_yjXKwUgolA_76.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/a4ROubm0cIc_0.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/a8ksm0AKRJY_196.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/aBtwsG79BnQ_4.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/aG2hgLQyN64_3.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/aLPrTx4dvvo_224.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/aS7S_whb0RE_5.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/aW9nPGAdLkM_22.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/aXO-sNzhiE0_36.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/aZu-GianKek_1.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ab_OfNZPMD4_232.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/abcm6SdJ43o_0.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/afBM8g-LCoo_14.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/afwq--zVgJk_81.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/aglpXyfqd-8_384.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/amWF6sKE2E8_40.wav",
+            "labels": "tickling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ap1IV_BKAXo_4.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ap3gy9OIRyE_104.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/aqeHbJc8iho_68.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/b0z-rOhCf2w_1.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/b9TfeDnfemw_47.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/bAx4K1SR3gs_60.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/bChPXNG4JZc_59.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/bEN-M8LaxN4_51.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/bMicLGzeSCk_1.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/bNMIsZhrucM_0.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/baFMPNc_ZvE_5.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/baoNnWv_wpU_226.wav",
+            "labels": "tickling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/basFDzOqgm8_72.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/bcGVwwQFCzo_569.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/bei0Be7pJQA_32.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/bfnhekuZLZk_327.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/blSDVp5RrIY_49.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/br2NgFQbJUo_17.wav",
+            "labels": "tickling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/bv-l052ITNc_4.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/bwlizlTA7Uk_129.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/by1-BjKi60k_2.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/c58Mu2EF_yI_4.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/c73CND3gldI_3.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/cL389d29hq8_0.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/cVJpNDYeD6w_29.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/cYvyMBHD07Q_4.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ca0GB_PLmDQ_189.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/cdza9u-ES-A_200.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/cg-WQl3YCVY_205.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ciwFFiOp180_16.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/cjt0MAsGRIo_502.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/clhd73__vDQ_84.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/d5sURYkf_nE_10.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/d8LIBGUxVuw_42.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/d8__H5d2sd4_7.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/dLwmxlP2-uQ_23.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/dY7yCesR7OE_14.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/dZ1EkA3BuQ4_0.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/dgKrqKj9Hew_0.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/diF_49OzFqw_2.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/dsuMIihNynA_52.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/dxnmqBn6Elc_86.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/e86ZfhLpoyQ_60.wav",
+            "labels": "tickling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/eEX40rTNDKg_57.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/eG-DeM1L2GA_93.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/eHqiv1G1gQI_76.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/eIM2OyNgqOk_42.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/eIVSFMT3a2A_31.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/eND-2SMjxDg_11.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/eOSSZE3IcHA_44.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/eQ4-KE9OoLY_24.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/eQU2FsbvOXc_4.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/eR_5dk03Fm8_12.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/eRcJ73aHuVI_119.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/eS85W-c8zf0_63.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/eTlfd00WUHE_60.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/eXBaVsma73Q_301.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/e_qoDDQRnqk_60.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ebkANHNG2zc_5.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ekD635_HVLc_0.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/elPyNNFZK6s_144.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/emTLZPuEXqM_23.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/eoGt3l3BZ7w_163.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/eptncA3-gjY_12.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/etqzwp2P_yQ_123.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/f06D26jaN9Q_0.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/f3k5XVbiWA0_18.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/f8cq1C_NRKc_76.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/fA63LhqiHyc_278.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/fIbjRLE1ovM_48.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/fK4kD8fXswE_37.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/fLVlPK4qHns_37.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/fMeaggq0_rA_32.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/fRBJY5RHN_s_22.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/fV_0yqgFPh4_2.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/fYXb94-2Ako_8.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/fYwuzxC1F2Q_161.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/f_55S5G8M2s_43.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/f_BLgGsgj2I_2.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/faLSeaz4QdM_68.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/fifsI5TBtfM_25.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/flojhQpCUWg_57.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/fmGpZz2dnUg_7.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/fo6pBl3CM7s_64.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/fp8xB76kvCQ_169.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/fsPk3kDI7Qg_42.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/g1zu7FWS69g_13.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/g4wZMQnBc3Y_191.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/g5eC8EsmIXo_30.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/gCj-R26j7J0_1386.wav",
+            "labels": "tickling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/gDSpCuBbwgw_125.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/gRjTOfSFVCo_51.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/gS5t7iaBXSE_3.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/gV7ca6oVY3Y_4.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/gWDyfGfWIqQ_3.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/g_bE1BACx1c_12.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/gkDcYXfkzkA_19.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/glBkgK8wMJ4_7.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/glRQjS3tAXE_220.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/gpyUJCmt3vE_363.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/gqex7wJ6ZYU_6.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/gu0QuD4zpzg_30.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/h-ekL4jR214_0.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/h4A9pRoceIQ_41.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/h6A4REQB02U_28.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/hDeDDXismDU_6.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/hJXBf1fs8rM_14.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/hKcSZfv9gms_1.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/hKcmTwOQKa8_135.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/hNZJPQFGHWY_50.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/hOL-vgb3wpc_4.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/hOSWyMZvWec_70.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/hRFs2Or0QoE_72.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/hRb_GgQKN2Y_74.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/hS0JeJFurbs_4.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/hVrvXFrYU6I_4.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/haXLj3W0Qlc_89.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/hkMdWMBp8RA_3.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/hmzR04qjaz8_8.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/hqfHv1N1lBg_166.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/hrXPvtDU_VQ_137.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/i2AJ5SAqzCE_193.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/i8EjlDXghpw_0.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/iCIFDPQqA1c_0.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/iMZM3i9Zasg_8.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/iO_j8IWv6hE_125.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/iYN1pUvPy1s_12.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/iYSClo5N_fE_380.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ibQY1u7MmzA_72.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/idL7wsVRe0Q_4.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ifAImyQaRiE_59.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/iiJS7YTT5Gs_0.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/itb1211BcqI_1009.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/iyGv338SnrQ_6.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/iz8en2Dt7vE_17.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/j6Wh4zu5z74_115.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/j7O0Z4e14so_77.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/j8IT6xN6D8g_43.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/jBNaXp62dDg_2.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/jEeV0LPXPxI_15.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/jSXxkx883KU_12.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/jW57wvXbRS0_2.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/jcbX9iIDatA_2.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/jvih6ILV5og_262.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/jwYikLyqs0k_2.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/jxFcwXhf8dM_23.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/jzOjfk0L9uA_230.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/k45ect-HXas_3.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/k4ixAfJ1LuI_214.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/k4wYU7PZuPY_29.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/k8HMlH4buaE_3.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/k8ahScpAUMc_105.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/k9bJ5GfdbRQ_88.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/kDNG-8C2Jrs_0.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/kDuAS29BCwk_3.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/kKImgfRS8vY_2.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/kLz7dpWQzD8_504.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/kUm2TCdpOTM_38.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/kWTjg1dMQJs_108.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/kX0EWmJhKLQ_313.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/kg7vlc6qTqo_2.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/khbdbbs-xuc_100.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/knIp-VFPmIk_22.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/l03fPRRGFcI_42.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/l40BIhdxNQY_16.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/l6jMv1FfGhM_1.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/l7ce40m_kVA_96.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/lH_qn-nvHyc_21.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/lI5mOg0ycnc_15.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/lIsYTlfdQ6c_218.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/lN5YXmIz2QI_114.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/lP1u9j-Hsr4_60.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/lRp-y4ezD3A_67.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/lUDdMn9ttXU_22.wav",
+            "labels": "tickling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/lmGNPl1sBIk_325.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/lmn_PczIHHo_47.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/lmrqi-lpHkg_261.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ln5-jBXIgmc_31.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/lnGe0IotDM0_26.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/loAwb-JFpW8_232.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/m0R5rkIi6VM_77.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/m2AtFBgTFKo_108.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/m2nqCirxhsI_26.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/m3Pd_V0Yluc_202.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/m6yPz9fHJnY_87.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/m9N_YSj_AuA_13.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/mE4-cdQxdgM_150.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/mE6wwBaFaf0_28.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/mEko7SMbIJg_94.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/mIqVA7Zwfrs_14.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/mJVWA3tLrhw_111.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/mQwjoRqpQro_103.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/mVH_WLmT_tc_18.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/mWInhFxuJ7c_801.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/mdXhMyKlQsI_19.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/meMLnQoTKB8_137.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/mhzWCdClkAI_142.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/mjcRsL7PsMY_67.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/mn_U5tTi-wo_527.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/mpQwTCyf0KI_8.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/mwdx_T-wp58_110.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/mzt-W2EljH0_2.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/n15ydcfmZCQ_90.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/n6J2E96pcyU_7.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/nEomGihKPkU_15.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/nF64BTCr6P8_1.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/nJ_tX4IGg4E_5.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/nK15J54IVCI_92.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/nOTDJUNdrcc_60.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/nOyjqkARNic_218.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/nPGctuxTMd4_0.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/nSYzk6h4ZBA_68.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/nXSYzDcxhME_59.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/nglfgQmnNsQ_252.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/njNPDxLHZVQ_102.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/nqN8z4pyRzs_261.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ntcN5pcqiOY_63.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/nyFulYDEKFs_17.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/o-kHMzDEe3o_110.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/o018kcJ4CqU_0.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/o12VFXBVhfs_0.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/oHivbPB_jkY_205.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/oIosEbECUo8_77.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/oOLt6cStf60_17.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/oRGXgMMPy_Q_235.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/oSJw4wU7g4g_2.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/oYy2zyfw8TM_21.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/o_27Slj8aNQ_4.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/orPK2VO0irU_118.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/otCvT60K5CI_79.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/p0_S0I4aHZ8_564.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/p0pp-37fOdo_123.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/p2UMwzWsY0U_2.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/p3VyTPKLM1Y_19.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/pCIVES7QhyQ_2.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/pTgIYOnWrw0_47.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/pWPNktTWKjg_5.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/pf9p9xRQEjA_100.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/pfWmvoFOjxk_148.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/pmH650EmzaI_4.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/pne2BoTfuD0_216.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/q-31Jnc0o64_12.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/q1g-VWWMBR0_4.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/q5HAJ5vpI3M_1.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qAl4lWHJHPE_7.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qCqiPd5NpKI_14.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qH1dW6YUeUo_273.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qHdlz2IJG60_39.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qJjYFagFYrM_177.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qKKMFOLB4Sg_10.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qKx5ZldZxcs_33.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qNj9X-7GVPk_0.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qVwK8fsooj4_25.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qVySghDQ6c4_225.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qWGypGTHnfY_60.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qmgpPih1Y5o_5.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qnJFaYiCSpA_4.wav",
+            "labels": "playing xylophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qoDCBrRmiF0_69.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qpVl8NjKRdM_0.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qsyvY6b4oLM_112.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qt6B6r2eJyw_19.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/quWQJKnwJ3w_2.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qvM-cdn3Oeo_35.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qvg0XIzGHCg_0.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qvvcOO7ZRWk_97.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qx8eYKeDhmw_187.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qzZw2ZRIGbI_0.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/r3wRcByYtks_37.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/rBXnn3uDj5I_45.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/rHY2iPRm9uQ_2.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/rQlxLEor6ns_83.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/rVqeQ9D7EWo_4.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/rVw05V3fI88_38.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/rYKR2QkY2g4_1.wav",
+            "labels": "tickling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/rilhjPg-VF0_82.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/rl9KKEaeGzA_180.wav",
+            "labels": "tickling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/rlDGXO3KwO4_1.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/rnBXvGEbPDQ_43.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/rqobPuVkiw4_0.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/rsCodvxQzg4_103.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/rzO_awjsvVI_0.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/s5fM4X235ak_128.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/sFUaHKLtnCY_67.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/sH0nRlxnZt4_305.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/sHEFvLzlmZU_65.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/sHv_BgAPLJA_229.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/sJXu1QgZ5cg_6.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/sRvoxJziZPw_93.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/sWFRmD9Of4s_221.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/s_cRfwyH6HY_1.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/s_gkhLJdXFE_62.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/sbKKz3bH9bg_38.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/sjaK2S68kIo_33.wav",
+            "labels": "tickling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/slXfO0bQZck_84.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/smfo6-VVHXQ_84.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/soY9yaCLPvI_1.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/spFWUA9Ro80_25.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/sqEsK6JRRJs_257.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/syp1O0cjens_38.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/syxhsu339nI_59.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/t2XntpSO4Yo_105.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/t4-dv6R6L2c_11.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/tAQ57N-P4Uc_21.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/tAffztlKpiI_35.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/tBlO3pzL1_0_51.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/tCCzoeyYHbY_7.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/tD3UaRvcirU_48.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/tKqg8mhmugw_75.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/tP-_e6K8FEA_259.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/tSFY2jfmdt8_28.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/tVfchvUzaso_2.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/taj4Rjy1x2E_0.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/tgP093HA9TM_195.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/tnNsdkhFZ18_100.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/tnwb3XhnvBk_99.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/u0Xy2mDtY2s_2.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/u1BwfdNxFpM_1.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/u8eA0iInAbo_4.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/uEuG-ejXVuA_3.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/uQk0V2_KliQ_815.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/uTqS0rpvmFY_217.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/uYZAjSSyI6Y_101.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/u_IXdclQnPk_0.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/u_xQQu2tOn0_2.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ua6OLN1mbZE_139.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ub_oR54uQYY_72.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/uh11r4fTWt0_78.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ukNrgVjfNUI_157.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/um4kPpZSxaQ_3.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/umQ5vv15kg4_86.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/upef7-Ax0MQ_7.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/urERydUgnUQ_183.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/utoq4gnDkS8_85.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/uukFI6uF-Uk_45.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/uvsjCiCNZi4_45.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/uzfmQ8RefVE_4.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/v2ZxNLIgE10_8.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/v81yYiZTOtw_55.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vATDIXjOABQ_37.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vE8fcJI4lNY_76.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vFy8ag753ow_23.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vG93N2iSxl4_117.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vHLLAEj3Cl8_0.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vIcbepfGMtg_1.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vMdFGslhOGk_1.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vPc4FubyBSA_17.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vVNkJYihVqQ_230.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vX2FM96bk9M_136.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vXMNCzBOGuQ_110.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vYOwI1Q-l60_129.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vYZPpnqg2mU_28.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/v_qYXfNP1Yw_23.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vb7sWgYOGpc_77.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vh6Gm7JTyEA_32.wav",
+            "labels": "chopping wood"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vqNbapex1kU_15.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vuZswwfGT4I_166.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vxWLw9EV9Fo_139.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/vyVoFY2fcv0_7.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/w3FrNMmFPFM_82.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/wIWgcC9DMbg_86.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/wLdCy9BWejA_0.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/wUaMMoLb7vM_60.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/wYJqvbUc9mw_136.wav",
+            "labels": "tap dancing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/wgdyM3dC3v4_4.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/wmWCtlyvzWM_113.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/wo8HyynVAj0_230.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/x0J0c8qcL1A_0.wav",
+            "labels": "playing trumpet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/x1jYUQSXw-4_10.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/x7EinAN0EWs_14.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/x8cwzO6u_7c_90.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/x9hf11_U2NY_94.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/xC-iikwXsIw_8.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/xCwDi3Vqm0s_2.wav",
+            "labels": "bowling"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/xNz65ouVPGo_76.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/xONFPuaP9_s_61.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/xS-Wzbxe4eM_39.wav",
+            "labels": "playing drums"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/xWsk0ybcD3I_3.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/xcsH3jFtdSg_26.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/xm-E8PQrz7k_19.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/xmHKU2VN95E_0.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/xq67_EO-WkM_192.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/xuDbDcdAx_Y_3.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/xwtTGbNylxk_0.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/xxBx1jv--ks_58.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/xxrNO_Q4LcE_2.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/y0RAy7VQM6A_105.wav",
+            "labels": "playing violin"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/y9TUT-GsAvY_27.wav",
+            "labels": "blowing nose"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/yCSpFVwzwP8_68.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/yCz1FD8rxy8_68.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/yKjJHObLUws_3.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/yU1D-OMYw6o_20.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/yUvBOFF9OPw_0.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/yVKOgbICAs0_55.wav",
+            "labels": "shuffling cards"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/yX4IfOAat4s_1.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/yZ83qnFvpQ0_29.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/yZ9hIqW4bRc_101.wav",
+            "labels": "playing organ"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/y_BODdC1t6k_16.wav",
+            "labels": "playing keyboard"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/yaHigMmaBv0_8.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ydL4ZaS4BeQ_7.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ygLKayPwRZA_64.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ygP1za_tmx4_148.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/yhg-IlXcVrE_111.wav",
+            "labels": "playing bass guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/yiIpsWdwxwk_24.wav",
+            "labels": "playing accordion"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ymeIZj6pE-A_1.wav",
+            "labels": "playing saxophone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ynPZkY1Y258_4.wav",
+            "labels": "ripping paper"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ysjCIR7SkJU_141.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/z-M9MLoVh8I_0.wav",
+            "labels": "playing bagpipes"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/z2IcCIRBrd8_323.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/z5W_W5Rqn4I_40.wav",
+            "labels": "tapping pen"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/z5jLp8ruSXU_29.wav",
+            "labels": "playing harmonica"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/zNBieYzIbxk_246.wav",
+            "labels": "playing clarinet"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/zRruJDfg31g_31.wav",
+            "labels": "playing trombone"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/zdD3sBNWwiY_159.wav",
+            "labels": "playing guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/zf3deviWMWE_22.wav",
+            "labels": "shoveling snow"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/zfp7rYWg85w_5.wav",
+            "labels": "tapping guitar"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/zhz63SKmbMY_42.wav",
+            "labels": "singing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/zsnU7rt_Qq0_0.wav",
+            "labels": "laughing"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/zvMPX99N2IE_19.wav",
+            "labels": "playing piano"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-9i4bm2OiZ4_10.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/-QhxoSeCqYE_65.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/0XHT4ID7Wkk_4.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/1IKSdJ5Wk4s_33.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/1dhlHTnoWBw_28.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/252W2TFVj6U_37.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2QFRhSiKsAA_38.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2R-MVTalZ8g_37.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/2RKIOsWiy3U_110.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/3o9WUyucEIQ_137.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/4tn_mEgISZY_35.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5XwJ0rTJwDQ_34.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/5t32dT2bFaU_56.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6RQ2rLKLsv8_6.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/6XztITpw_dM_0.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/7x7L0i88ego_246.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/8Liu0YJGFkU_70.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/CjiJdgoW5Io_74.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/DBc7EM2OeaA_20.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/DOksF8MGEjI_32.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/DY4lLaaQfmU_2.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Dbzm5Gl6gWA_17.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/E6U2vHWzTME_25.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/EDAIFrhNIXg_2.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Ef1N4vXMINQ_59.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/GUf3saB0aGg_35.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/HAPBtb51NRM_53.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/LL-1iudTMss_47.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/LPnaUudTalc_126.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/Lb8vLWzzSA4_41.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/M2ItM1UNiyU_475.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/M_2WkaKWe5M_0.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/NaIs4_OcOWo_59.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/OTAvYb4Fclw_5.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/P23Dp774MZg_12.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/P9lotgUhYQc_22.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/RoHYo2x9gbc_109.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/SOLwqEF6Iqw_145.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/TOwjQ_RSm8s_20.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/UP9xzyRuNyY_33.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/UthqVZFc6Zk_145.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/V1aEMiD5c9Q_334.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/V4BNtCtuSQQ_0.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/VFPsTsnatJM_45.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/XLoTIJuWTck_8.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/YXUsljH4iz8_97.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/YqxV098aBzs_32.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ZQQgRLIt078_2.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/_cDPlZP2UVw_4.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/aAp4MpIc6zg_43.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/aKKaNYZTmNo_66.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/dugEs2OfQtY_149.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/dzfk3y6_e3A_10.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/eLRdT4q8FAs_55.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/eXLygHF6El4_6.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/fX6scHNLk5w_31.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/gmOUGQSpDaQ_2.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/iXSp6ojzN7A_40.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/izuALcpMYoo_29.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/jpWILSI9mis_25.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/lllqzohXPD8_1.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/m7S7hRQVfm8_1.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/mHcs5WCtC-Q_5.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/mYg-tum5zq4_29.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/n76hkBT6X9Q_4.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ndhFUQX3tko_745.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/oeSoRa8xtUg_3.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/oxY1iBy5daQ_38.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/pPEFj7kY6wc_548.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/qoODmONT1a0_19.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/rTDOx0cndCc_5.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/sA3FAtCfxpw_3.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/sMymLGt0D1o_10.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/sUb1RJUivRU_160.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/t5SHfHDj0uw_6.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/tI1t5ugTvGY_299.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/uHR8pakSKkI_55.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/ulRzHOcDUgA_10.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/upXS1qv56Ww_77.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/wCTJ9bKn_sI_180.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/wG1wBA9lyJE_4.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/wJTOt6reIpg_15.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/wdrRBrKBycc_434.wav",
+            "labels": "dribbling basketball"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/xH_-PcTPGes_34.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/xkoRNHedKXQ_415.wav",
+            "labels": "mowing lawn"
+        },
+        {
+            "wav": "/scratch2/dbose/rajat/kinetics/wavs/zY1hJ_V6zyg_55.wav",
+            "labels": "mowing lawn"
+        }
+    ]
+}
