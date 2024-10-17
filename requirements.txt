@@ -1,0 +1,7 @@
+beautifulsoup4
+ipython
+fairscale
+omegaconf
+timm
+torch
+transformers
